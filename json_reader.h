@@ -1,8 +1,8 @@
 #ifndef CPPTL_JSON_READER_H_INCLUDED
 # define CPPTL_JSON_READER_H_INCLUDED
 
-# include "features.h"
-# include "value.h"
+# include "json_features.h"
+# include "json_value.h"
 # include <deque>
 # include <stack>
 # include <string>
